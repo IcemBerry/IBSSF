@@ -1,4 +1,4 @@
-# IBSSF (IcemBerry's Simple Spring FrameWork)
+# IBSSF (IcemBerry's Simple Spring Framework)
 **做什么？** 基于传统SSM & Apache Shiro的简单整合框架，用于快速开发，前端使用简单便捷的Bootstrap做页面展示。
 
 ### 版本信息
